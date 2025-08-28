@@ -1,0 +1,17 @@
+{
+  "name": "node_streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": "professor-severus-snape",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0"
+  }
+}
